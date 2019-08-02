@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "948197827816",
+    "firebase_url": "https://ncounter-887ad.firebaseio.com",
+    "project_id": "ncounter-887ad",
+    "storage_bucket": "ncounter-887ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948197827816:android:58ccd15b08c1ba29",
+        "android_client_info": {
+          "package_name": "com.example.Ncounter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948197827816-4c3nhlta2dp819ajb5g669t50vtc6i47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY661NP6z0ACTpNtN8Y6r_f24ntR2YKag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948197827816-4c3nhlta2dp819ajb5g669t50vtc6i47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
